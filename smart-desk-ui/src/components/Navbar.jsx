@@ -1,10 +1,13 @@
 import './Navbar.css'
 
+import { AiOutlineWifi } from "react-icons/ai";
+import LiveClock from './LiveClock.jsx';
+
 function Navbar() {
     return (
         <div className='nav'>
-            <h1>Hello World!</h1>
-            <h2>Hello Josh</h2>
+            <LiveClock className='clock'></LiveClock>
+            <AiOutlineWifi className='wifi'></AiOutlineWifi>
         </div>
     )
 }
