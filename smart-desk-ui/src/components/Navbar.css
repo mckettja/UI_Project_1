@@ -11,13 +11,19 @@
     position: fixed;
     width: 100%;
     display: flex;
-    flex-direction: row;
+    flex-direction: row-reverse;
     border-bottom: solid #628EB8 3px;
-    padding-left: 2rem;
+    padding-right: 4rem;
 }
 
 .wifi {
-    font-size: 30px;
+    font-size: 40px;
     margin: 1.5rem;
 }
 
+.date-time {
+    margin-right: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    font-weight: bolder;
+}

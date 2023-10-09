@@ -6,7 +6,7 @@ import LiveClock from './LiveClock.jsx';
 function Navbar() {
     return (
         <div className='nav'>
-            <LiveClock className='clock'></LiveClock>
+            <LiveClock></LiveClock>
             <AiOutlineWifi className='wifi'></AiOutlineWifi>
         </div>
     )

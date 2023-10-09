@@ -17,7 +17,7 @@ function LiveClock() {
   const formattedTime = currentDateTime.toLocaleTimeString();
 
   return (
-    <div>
+    <div className='date-time'>
       <p>{formattedDate}</p>
       <p>{formattedTime}</p>
     </div>
