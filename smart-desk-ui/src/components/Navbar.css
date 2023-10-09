@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+.h1 {
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav {
+    background-color: #59B998;
+    z-index: 100;
+    position: fixed;
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    border-bottom: solid #628EB8 3px;
+    padding-right: 4rem;
+}
+
+.wifi {
+    font-size: 40px;
+    margin: 1.5rem;
+}
+
+.date-time {
+    margin-right: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    font-weight: bolder;
+}

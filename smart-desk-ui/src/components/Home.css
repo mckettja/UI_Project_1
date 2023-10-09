@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+.home {
+    background-color: #1A1C2D;
+    font-family: 'Montserrat', sans-serif;
+    padding: 120px;
+}
+
+.App {
+    background-color: #1A1C2D;
+}
+
+.button {
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 30px;
+    border: none;
+    border-radius: 15px;
+    background-color: #628EB8;
+    color: #1A1C2D;
+    font-weight: 800;
+    box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.74);
+    -webkit-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.74);
+    -moz-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.74);
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: #656188;
+    color: #F6F7F7;
+    border: solid #F6F7F7 2px;
+    box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.74);
+    -webkit-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.74);
+    -moz-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.74);
+}
+
+.title {
+    margin: 100px auto;
+    color: #59B998;
+    text-align: center;
+    font-size: 45px;
+    max-width: 600px;
+    position: relative;
+    text-transform: uppercase;
+    
+}
+  
+.title:before {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 3px;
+    background: #59B998;
+    left: 0;
+    top: 50%;
+    position: absolute;
+}
+  
+.title:after {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 3px;
+    background: #59B998;
+    right: 0;
+    top: 50%;
+    position: absolute;
+}
+
+.icon {
+    font-size: 60px;
+    margin: 4rem;
+    border: solid #59B998;
+    border-radius: 40%;
+    padding: 1.5rem;
+    color: #1A1C2D;
+    background-color: #59B998;
+    box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.74);
+    -webkit-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.74);
+    -moz-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.74);
+}
+
+.icon:hover {
+    cursor: pointer;
+    border: solid #F6F7F7 4px;
+    color: #F6F7F7;
+    box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.74);
+    -webkit-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.74);
+    -moz-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.74);
+}
+
+.label {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: bolder;
+    color: #59B998;
+}
+
+.label:hover {
+    text-decoration: none;
+}
+
+.row {
+    align-items: center;
+    margin: 1rem;
+    height: 33vh;
+    display: flex;
+    justify-content: center;
+}
+
+.link {
+    text-decoration: none; 
+    color: inherit; 
+}
+
