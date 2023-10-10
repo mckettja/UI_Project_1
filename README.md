@@ -1,5 +1,4 @@
-# User Interface I Project 1
-## Smart Object: Smart Desk
+# Smart Object Project: Smart Desk
 ## Project Summay
 The main goal of this project is to design a user interface for a 'smart object'. The general project timeline is as follows:
 ### 1. Brainstorm possible ideas for a smart object.
