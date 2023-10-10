@@ -19,6 +19,14 @@
 .wifi {
     font-size: 40px;
     margin: 1.5rem;
+    color: #1A1C2D;
+}
+
+.settings {
+    font-size: 40px;
+    margin-top: 1.5rem;
+    margin-right: 0.5rem;
+    color: #1A1C2D;
 }
 
 .date-time {
@@ -26,4 +34,5 @@
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 2px;
     font-weight: bolder;
+    color: #1A1C2D;
 }

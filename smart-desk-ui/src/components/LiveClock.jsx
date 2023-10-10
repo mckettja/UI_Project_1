@@ -6,7 +6,7 @@ function LiveClock() {
   useEffect(() => {
     const intervalId = setInterval(() => {
       setCurrentDateTime(new Date());
-    }, 1000); // Update every second
+    }, 1000);
 
     return () => {
       clearInterval(intervalId);
