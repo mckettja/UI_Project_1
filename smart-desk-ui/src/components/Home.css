@@ -13,7 +13,9 @@
 .button {
     padding: 10px 20px;
     text-decoration: none;
-    font-size: 30px;
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: bolder;
     border: none;
     border-radius: 15px;
     background-color: #628EB8;
