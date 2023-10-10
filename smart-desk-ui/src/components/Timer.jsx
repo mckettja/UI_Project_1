@@ -2,8 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { Howl } from 'howler';
 
 const sound = new Howl({
-  src: ['./sound/notification.mp3'], // Replace with the path to your sound file
-  volume: 0.5,
+  src: ['smart-desk-ui/data/timerAlarm.mp3'], // Replace with the path to your sound file
+  volume: 1,
 });
 
 function Timer() {
@@ -64,6 +64,7 @@ function Timer() {
       </div>
       <div className="controls">
         <select onChange={handleSelectChange} value={minutes} className='timer-dropdown'>
+          <option value="1">1 minutes</option>
           <option value="10">10 minutes</option>
           <option value="20">20 minutes</option>
           <option value="30">30 minutes</option>
