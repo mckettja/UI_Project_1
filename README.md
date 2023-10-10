@@ -25,6 +25,10 @@ The main goal of this project is to design a user interface for a 'smart object'
 ## How To Launch Application
 ### 1. Copy this repository.
 ### 2. Run the following commands in the terminal, from your desired code compiler.
+- Install dependancies with the following command:
+```cmd
+npm install
+```
 - Cd into the smart-desk-ui directory with the following command:
 ```cmd
 cd .\smart-desk-ui\
