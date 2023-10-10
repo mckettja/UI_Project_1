@@ -37,7 +37,7 @@ cd .\smart-desk-ui\
 ```cmd
 npm run dev
 ```
-The output from the previous command should be as follows:
+- The output from the previous command should be as follows:
 ```cmd
 > smart-desk-ui@0.0.0 dev
 > vite
