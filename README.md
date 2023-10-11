@@ -20,9 +20,9 @@ The main goal of this project is to design a user interface for a 'smart object'
 ![alt text](https://github.com/mckettja/UI_Project_1/blob/dev/documentation_images/colormind_palette.png?raw=true)
 - My thought process for this smart desk application was to have a screen integrated into the physical desk where the user can indicate if they are at their desk for **productivity** or **entertainment** purposes. Each page of the application was designed to assist the user with either of these activities.
 - Here is the first page of my application:
-**(first page)**
+![alt text](https://github.com/mckettja/UI_Project_1/blob/dev/documentation_images/app_first_page.png?raw=true)
 - Here is the second page of my application:
-**(second page)**
+![alt text](https://github.com/mckettja/UI_Project_1/blob/dev/documentation_images/app_second_page.png?raw=true)
 ## How To Launch Application
 ### 1. Copy this repository.
 ### 2. Run the following commands in the terminal, from your desired code compiler.
