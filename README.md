@@ -17,10 +17,8 @@ The main goal of this project is to design a user interface for a 'smart object'
 ### 4. Program a working interface in React.js using components.
 - Step 3 is to apply everything learned in step 1 and step 2 to implement a working application.
 - Here is the color scheme I decided to follow for my application:
-**(color scheme screenshot)**
-- My thought process for this smart desk application was to have a screen integrated into the physical desk where the user can indicate if they are at their desk for **productivity** or **entertainment** purposes. Each page of the application was designed to assist the user with either of these activities.
-- Here is the color pallette I chose for my application:
 ![alt text](https://github.com/mckettja/UI_Project_1/blob/dev/documentation_images/colormind_palette.png?raw=true)
+- My thought process for this smart desk application was to have a screen integrated into the physical desk where the user can indicate if they are at their desk for **productivity** or **entertainment** purposes. Each page of the application was designed to assist the user with either of these activities.
 - Here is the first page of my application:
 **(first page)**
 - Here is the second page of my application:
