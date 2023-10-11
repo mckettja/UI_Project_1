@@ -1,5 +1,6 @@
-# Smart Object Project: Smart Desk
-## Project Summay
+# User Interface I Project 1
+## Smart Object: Smart Desk
+## Project Summay and Documentation
 The main goal of this project is to design a user interface for a 'smart object'. The general project timeline is as follows:
 ### 1. Brainstorm possible ideas for a smart object.
 - This step is designed to give a wide variety of different user interfaces to choose from. This was done as a class. 
@@ -16,19 +17,21 @@ The main goal of this project is to design a user interface for a 'smart object'
 ### 4. Program a working interface in React.js using components.
 - Step 3 is to apply everything learned in step 1 and step 2 to implement a working application.
 - Here is the color scheme I decided to follow for my application:
-**(color scheme screenshot)**
+<br/><br/>
+
+![alt text](https://github.com/mckettja/UI_Project_1/blob/dev/documentation_images/colormind_palette.png?raw=true)
 - My thought process for this smart desk application was to have a screen integrated into the physical desk where the user can indicate if they are at their desk for **productivity** or **entertainment** purposes. Each page of the application was designed to assist the user with either of these activities.
 - Here is the first page of my application:
-**(first page)**
+<br/><br/>
+
+![alt text](https://github.com/mckettja/UI_Project_1/blob/dev/documentation_images/app_first_page.png?raw=true)
 - Here is the second page of my application:
-**(second page)**
+<br/><br/>
+
+![alt text](https://github.com/mckettja/UI_Project_1/blob/dev/documentation_images/app_second_page.png?raw=true)
 ## How To Launch Application
 ### 1. Copy this repository.
 ### 2. Run the following commands in the terminal, from your desired code compiler.
-- Install dependancies with the following command:
-```cmd
-npm install
-```
 - Cd into the smart-desk-ui directory with the following command:
 ```cmd
 cd .\smart-desk-ui\
@@ -37,7 +40,7 @@ cd .\smart-desk-ui\
 ```cmd
 npm run dev
 ```
-- The output from the previous command should be as follows:
+The output from the previous command should be as follows:
 ```cmd
 > smart-desk-ui@0.0.0 dev
 > vite
