@@ -8,12 +8,8 @@ The main goal of this project is to design a user interface for a 'smart object'
 - Our class list consisted of a smart desk, cookbook, bike, window, or mirror. For my personal project, I chose to design a UI for a ***'smart desk'***.
 ### 3. Prototype possible physical and digital designs. Document all information gathered during this phase.
 - Step 1 was to gather design requirements through interviews. My interview summary is listed below:
-**(interview notes)**
 - Step 2 was to follow the ['10-plus-10' protocol](https://mweprin.medium.com/10x10-sketch-method-9c662656d67d) for exploring different physical designs of our smart object.
-**(design sketches)**
-- Here were my final sketches chosen for my physical and digital design.
-**(final physical designs)**
-**(final digital design)**
+#### [Final Brainstorming Documentation and Design Presentation](https://docs.google.com/presentation/d/1vOlRQWLh0LTa6Ulz4bkPuqNjuA2oWJ73Sx0qKorq8iA/edit#slide=id.p)
 ### 4. Program a working interface in React.js using components.
 - Step 3 is to apply everything learned in step 1 and step 2 to implement a working application.
 - Here is the color scheme I decided to follow for my application:
