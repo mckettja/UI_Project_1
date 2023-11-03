@@ -32,6 +32,10 @@ The main goal of this project is to design a user interface for a 'smart object'
 ```cmd
 cd .\smart-desk-ui\
 ```
+- Run the following command to update all dependancies from the file:
+```cmd
+npm update
+```
 - Then run the following to host the react application locally:
 ```cmd
 npm run dev
